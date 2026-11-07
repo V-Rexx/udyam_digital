@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: udyam-digital
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/health
+    envVars:
+      - key: MONGODB_URI
+        sync: false
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: OPS_TOKEN
+        generateValue: true
+      - key: DATA_KEY
+        sync: false
+      - key: DEMO_MODE
+        value: "true"
+      - key: KYC_TODAY
+        value: "2026-07-15"
+      - key: PORT
+        value: "4000"

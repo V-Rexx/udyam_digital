@@ -1,0 +1,22 @@
+import { createRoot } from 'react-dom/client';
+import '@fontsource/mukta/400.css';
+import '@fontsource/mukta/600.css';
+import '@fontsource/mukta/800.css';
+import '@fontsource/noto-sans-bengali/400.css';
+import '@fontsource/noto-sans-bengali/700.css';
+import '@fontsource/noto-sans-gujarati/400.css';
+import '@fontsource/noto-sans-gujarati/700.css';
+import '@fontsource/noto-sans-kannada/400.css';
+import '@fontsource/noto-sans-kannada/700.css';
+import '@fontsource/noto-sans-malayalam/400.css';
+import '@fontsource/noto-sans-malayalam/700.css';
+import '@fontsource/noto-sans-gurmukhi/400.css';
+import '@fontsource/noto-sans-gurmukhi/700.css';
+import '@fontsource/noto-sans-tamil/400.css';
+import '@fontsource/noto-sans-tamil/700.css';
+import '@fontsource/noto-sans-telugu/400.css';
+import '@fontsource/noto-sans-telugu/700.css';
+import './styles.css';
+import App from './App.jsx';
+
+createRoot(document.getElementById('root')).render(<App />);

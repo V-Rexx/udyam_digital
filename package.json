@@ -1,0 +1,14 @@
+{
+  "name": "udyam-digital",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Digital-first SMB acquisition and onboarding journey for Accel Business (YTL Hackathon, Track A).",
+  "scripts": {
+    "install:all": "npm install --prefix server && npm install --prefix client",
+    "dev": "concurrently -n api,web \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "build": "npm run build --prefix client",
+    "start": "npm start --prefix server",
+    "test": "npm test --prefix server"
+  },
+  "devDependencies": { "concurrently": "^9.0.0" }
+}

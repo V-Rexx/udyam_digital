@@ -1,0 +1,550 @@
+{
+ "total_cac_spend": 5539640,
+ "cac_blended": 15053,
+ "conv": 7.4,
+ "mrr": 4544990,
+ "churn": 15.2,
+ "nps": 6.9,
+ "segments": {
+  "Micro retail & services": {
+   "leads": 2709,
+   "share_leads": 54,
+   "activated": 110,
+   "conv": 4.1,
+   "cac": 20007,
+   "arpu": 2505,
+   "median": 2470,
+   "churn": 22.7,
+   "spend_share": 40,
+   "mrr_share": 6,
+   "payback": 8.0,
+   "quote_accept": 32,
+   "kyc_pass": 54,
+   "days": 16.6,
+   "contract": 11.8
+  },
+  "Professional offices": {
+   "leads": 1247,
+   "share_leads": 25,
+   "activated": 138,
+   "conv": 11.1,
+   "cac": 10695,
+   "arpu": 6796,
+   "median": 6575,
+   "churn": 13.8,
+   "spend_share": 27,
+   "mrr_share": 21,
+   "payback": 1.6,
+   "quote_accept": 53,
+   "kyc_pass": 74,
+   "days": 16.9,
+   "contract": 12.0
+  },
+  "Small manufacturers": {
+   "leads": 289,
+   "share_leads": 6,
+   "activated": 37,
+   "conv": 12.8,
+   "cac": 15324,
+   "arpu": 19980,
+   "median": 15910,
+   "churn": 8.1,
+   "spend_share": 10,
+   "mrr_share": 16,
+   "payback": 0.8,
+   "quote_accept": 64,
+   "kyc_pass": 83,
+   "days": 20.5,
+   "contract": 19.5
+  },
+  "Small multi-site businesses": {
+   "leads": 755,
+   "share_leads": 15,
+   "activated": 83,
+   "conv": 11.0,
+   "cac": 15614,
+   "arpu": 31233,
+   "median": 28080,
+   "churn": 10.8,
+   "spend_share": 23,
+   "mrr_share": 57,
+   "payback": 0.5,
+   "quote_accept": 56,
+   "kyc_pass": 79,
+   "days": 18.8,
+   "contract": 17.5
+  }
+ },
+ "channel_by_segment": {
+  "Micro retail & services": {
+   "Channel partner": {
+    "leads": 568,
+    "conv": 5.3,
+    "cac": 11382,
+    "spend": 341450,
+    "act": 30
+   },
+   "Field sales": {
+    "leads": 894,
+    "conv": 3.0,
+    "cac": 53026,
+    "spend": 1431710,
+    "act": 27
+   },
+   "Inbound call": {
+    "leads": 269,
+    "conv": 5.9,
+    "cac": 7710,
+    "spend": 123360,
+    "act": 16
+   },
+   "Referral": {
+    "leads": 234,
+    "conv": 10.3,
+    "cac": 5760,
+    "spend": 138240,
+    "act": 24
+   },
+   "Website form": {
+    "leads": 544,
+    "conv": 2.0,
+    "cac": 13124,
+    "spend": 144360,
+    "act": 11
+   },
+   "WhatsApp campaign": {
+    "leads": 200,
+    "conv": 1.0,
+    "cac": 10830,
+    "spend": 21660,
+    "act": 2
+   }
+  },
+  "Professional offices": {
+   "Channel partner": {
+    "leads": 246,
+    "conv": 11.4,
+    "cac": 14198,
+    "spend": 397540,
+    "act": 28
+   },
+   "Field sales": {
+    "leads": 447,
+    "conv": 11.9,
+    "cac": 16393,
+    "spend": 868850,
+    "act": 53
+   },
+   "Inbound call": {
+    "leads": 130,
+    "conv": 10.0,
+    "cac": 5157,
+    "spend": 67040,
+    "act": 13
+   },
+   "Referral": {
+    "leads": 101,
+    "conv": 21.8,
+    "cac": 2937,
+    "spend": 64620,
+    "act": 22
+   },
+   "Website form": {
+    "leads": 233,
+    "conv": 7.7,
+    "cac": 3720,
+    "spend": 66960,
+    "act": 18
+   },
+   "WhatsApp campaign": {
+    "leads": 90,
+    "conv": 4.4,
+    "cac": 2715,
+    "spend": 10860,
+    "act": 4
+   }
+  },
+  "Small manufacturers": {
+   "Channel partner": {
+    "leads": 61,
+    "conv": 13.1,
+    "cac": 39712,
+    "spend": 317700,
+    "act": 8
+   },
+   "Field sales": {
+    "leads": 101,
+    "conv": 10.9,
+    "cac": 18182,
+    "spend": 200000,
+    "act": 11
+   },
+   "Inbound call": {
+    "leads": 29,
+    "conv": 24.1,
+    "cac": 2354,
+    "spend": 16480,
+    "act": 7
+   },
+   "Referral": {
+    "leads": 19,
+    "conv": 36.8,
+    "cac": 2031,
+    "spend": 14220,
+    "act": 7
+   },
+   "Website form": {
+    "leads": 58,
+    "conv": 5.2,
+    "cac": 5240,
+    "spend": 15720,
+    "act": 3
+   },
+   "WhatsApp campaign": {
+    "leads": 21,
+    "conv": 4.8,
+    "cac": 2880,
+    "spend": 2880,
+    "act": 1
+   }
+  },
+  "Small multi-site businesses": {
+   "Channel partner": {
+    "leads": 135,
+    "conv": 11.1,
+    "cac": 42149,
+    "spend": 632240,
+    "act": 15
+   },
+   "Field sales": {
+    "leads": 278,
+    "conv": 12.2,
+    "cac": 15921,
+    "spend": 541310,
+    "act": 34
+   },
+   "Inbound call": {
+    "leads": 76,
+    "conv": 15.8,
+    "cac": 3213,
+    "spend": 38560,
+    "act": 12
+   },
+   "Referral": {
+    "leads": 59,
+    "conv": 13.6,
+    "cac": 4118,
+    "spend": 32940,
+    "act": 8
+   },
+   "Website form": {
+    "leads": 160,
+    "conv": 6.9,
+    "cac": 4189,
+    "spend": 46080,
+    "act": 11
+   },
+   "WhatsApp campaign": {
+    "leads": 47,
+    "conv": 6.4,
+    "cac": 1620,
+    "spend": 4860,
+    "act": 3
+   }
+  }
+ },
+ "sources": {
+  "Channel partner": {
+   "leads": 1010,
+   "conv": 8.0,
+   "cac": 20851,
+   "contacted": 71,
+   "churn": 18.5
+  },
+  "Field sales": {
+   "leads": 1720,
+   "conv": 7.3,
+   "cac": 24335,
+   "contacted": 73,
+   "churn": 9.6
+  },
+  "Inbound call": {
+   "leads": 504,
+   "conv": 9.5,
+   "cac": 5113,
+   "contacted": 80,
+   "churn": 14.6
+  },
+  "Referral": {
+   "leads": 413,
+   "conv": 14.8,
+   "cac": 4099,
+   "contacted": 79,
+   "churn": 24.6
+  },
+  "Website form": {
+   "leads": 995,
+   "conv": 4.3,
+   "cac": 6352,
+   "contacted": 55,
+   "churn": 11.6
+  },
+  "WhatsApp campaign": {
+   "leads": 358,
+   "conv": 2.8,
+   "cac": 4026,
+   "contacted": 41,
+   "churn": 20.0
+  }
+ },
+ "digital_leads": 1353,
+ "digital_never_contacted": 659,
+ "digital_never_contacted_pct": 49,
+ "drop_reasons": {
+  "Unreachable after 3 attempts": 805,
+  "Owner had no time for a visit": 531,
+  "Not interested on first call": 470,
+  "Price too high": 414,
+  "Locked in with current provider": 325,
+  "Wrong or invalid number": 319,
+  "Visit not scheduled by sales": 296,
+  "Only wanted a mobile plan": 280,
+  "Competitor offered cheaper plan": 207,
+  "Quote too complex to understand": 206,
+  "Quote took too long to arrive": 179,
+  "Decided to wait": 107,
+  "Installation delayed beyond 21 days": 98,
+  "Missing GST or Udyam document": 94,
+  "Found paperwork too long": 79,
+  "Authorised signatory not available": 53,
+  "Customer cancelled before install": 53,
+  "Document details did not match": 47,
+  "Site not feasible for fibre": 41,
+  "First payment failed": 28
+ },
+ "gst": {
+  "N": {
+   "leads": 1466,
+   "conv": 2.0,
+   "quote_accepted": 190,
+   "kyc": 47,
+   "kyc_pass": 25
+  },
+  "Y": {
+   "leads": 3534,
+   "conv": 9.6,
+   "quote_accepted": 671,
+   "kyc": 541,
+   "kyc_pass": 81
+  }
+ },
+ "udyam_none_share": 46,
+ "churn_by_calls": {
+  "1": {
+   "n": 34,
+   "churn": 5.9,
+   "nps": 7.5
+  },
+  "2": {
+   "n": 84,
+   "churn": 14.3,
+   "nps": 7.2
+  },
+  "3": {
+   "n": 137,
+   "churn": 11.7,
+   "nps": 6.9
+  },
+  "4": {
+   "n": 70,
+   "churn": 20.0,
+   "nps": 6.7
+  },
+  "5": {
+   "n": 43,
+   "churn": 27.9,
+   "nps": 6.0
+  }
+ },
+ "churn_calls_low": 11.9,
+ "churn_calls_high": 23.0,
+ "nps_calls_low": 7.3,
+ "nps_calls_high": 6.4,
+ "nps_slow": 6.0,
+ "nps_fast": 7.0,
+ "slow_n": 60,
+ "language": {
+  "top3_share": 76,
+  "regional_conv": 6.2,
+  "hi_en_conv": 8.0,
+  "regional_quote": 40,
+  "hi_en_quote": 45
+ },
+ "rule_breaks": {
+  "too_small": 8,
+  "wrong_city": 24,
+  "no_gstin": 12,
+  "missing_dependency": 9
+ },
+ "rule_break_customers": 48,
+ "activated_dead_gstin": {
+  "Cancelled": 18,
+  "Suspended": 4
+ },
+ "registry_status": {
+  "Active": 3266,
+  "Cancelled": 167,
+  "Suspended": 101
+ },
+ "impact_lines": [
+  {
+   "reason": "Owner had no time for a visit",
+   "lost": 531,
+   "rate": 0.5,
+   "recovered_active": 49.5
+  },
+  {
+   "reason": "Visit not scheduled by sales",
+   "lost": 296,
+   "rate": 0.5,
+   "recovered_active": 27.6
+  },
+  {
+   "reason": "Quote too complex to understand",
+   "lost": 206,
+   "rate": 0.5,
+   "recovered_active": 44.0
+  },
+  {
+   "reason": "Quote took too long to arrive",
+   "lost": 179,
+   "rate": 0.5,
+   "recovered_active": 38.3
+  },
+  {
+   "reason": "Only wanted a mobile plan",
+   "lost": 280,
+   "rate": 0.3,
+   "recovered_active": 15.7
+  },
+  {
+   "reason": "Missing GST or Udyam document",
+   "lost": 94,
+   "rate": 0.4,
+   "recovered_active": 23.5
+  },
+  {
+   "reason": "Found paperwork too long",
+   "lost": 79,
+   "rate": 0.4,
+   "recovered_active": 19.8
+  },
+  {
+   "reason": "Document details did not match",
+   "lost": 47,
+   "rate": 0.4,
+   "recovered_active": 11.8
+  },
+  {
+   "reason": "Authorised signatory not available",
+   "lost": 53,
+   "rate": 0.25,
+   "recovered_active": 8.3
+  },
+  {
+   "reason": "Installation delayed beyond 21 days",
+   "lost": 98,
+   "rate": 0.25,
+   "recovered_active": 24.5
+  },
+  {
+   "reason": "Site not feasible for fibre",
+   "lost": 41,
+   "rate": 0.5,
+   "recovered_active": 20.5
+  },
+  {
+   "reason": "Price too high",
+   "lost": 414,
+   "rate": 0.1,
+   "recovered_active": 17.7
+  },
+  {
+   "reason": "Digital leads never reached",
+   "lost": 474,
+   "rate": 0.25,
+   "recovered_active": 12.8
+  }
+ ],
+ "new_activations": 660,
+ "new_conv": 13.2,
+ "new_spend": 4131909,
+ "new_cac": 6262,
+ "spend_saved": 1407731,
+ "half_activations": 503,
+ "half_conv": 10.1,
+ "half_cac": 8215,
+ "process_groups": {
+  "Visit never happened": 827,
+  "Quote slow or confusing": 385,
+  "Only wanted a mobile plan": 280,
+  "Paperwork": 273,
+  "Install late or site not feasible": 139
+ },
+ "process_total": 1904,
+ "dropped_total": 4632,
+ "process_share": 41,
+ "p10_in_multi": 46,
+ "conv_by_provider": {
+  "Accel": 9.1,
+  "Accel (mobile only)": 9.2,
+  "Competitor A": 6.5,
+  "Competitor B": 7.4,
+  "Local ISP": 5.4
+ },
+ "accel_share_leads": 38,
+ "accel_conv": 9.2,
+ "nonaccel_conv": 6.2,
+ "conv_by_turnover": {
+  "1.5 - 5 cr": 8.3,
+  "25 - 100 cr": 10.3,
+  "40 lakh - 1.5 cr": 7.0,
+  "5 - 25 cr": 13.0,
+  "< 40 lakh": 3.9
+ },
+ "kyc_to_active_by_tier": {
+  "1": 73,
+  "2": 52
+ },
+ "conv_by_tier": {
+  "1": 8.6,
+  "2": 6.1
+ },
+ "churn_by_internet": {
+  "Business broadband": 8,
+  "Home broadband": 22,
+  "Leased line": 12,
+  "Mixed per site": 4,
+  "Mobile hotspot": 25
+ },
+ "quote_by_language": {
+  "Bengali": 48,
+  "English": 44,
+  "Gujarati": 47,
+  "Hindi": 46,
+  "Kannada": 39,
+  "Malayalam": 58,
+  "Marathi": 34,
+  "Punjabi": 31,
+  "Tamil": 38,
+  "Telugu": 43
+ },
+ "micro_churn_by_calls": {
+  "1": 18,
+  "2": 10,
+  "3": 17,
+  "4": 27,
+  "5": 47
+ },
+ "new_mrr_estimate": 4553224
+}

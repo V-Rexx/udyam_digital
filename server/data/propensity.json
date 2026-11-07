@@ -1,0 +1,32 @@
+{
+ "intercept": -3.4416235614721726,
+ "coef": {
+  "log_spend": -0.14035217559314758,
+  "log_emp": -0.12817319356837864,
+  "gst": 1.2642491716219493,
+  "udyam": 0.18728201853587478,
+  "tier1": 0.43307923305673124,
+  "regional": -0.3473335581308581,
+  "seg_Micro retail & services": -1.0074632363903144,
+  "seg_Small multi-site businesses": 0.20649464116782323,
+  "seg_Small manufacturers": 0.42360386136221584,
+  "src_Website form": -0.548332619099893,
+  "src_Channel partner": 0.13698608960415362,
+  "src_WhatsApp campaign": -0.9155921770735709,
+  "src_Referral": 0.8648663733586596,
+  "src_Inbound call": 0.319113701214613
+ },
+ "scale": {
+  "mean": {
+   "log_spend": 7.491323723963362,
+   "log_emp": 2.282041681563346
+  },
+  "std": {
+   "log_spend": 1.0640301598836746,
+   "log_emp": 1.1804055255630785
+  }
+ },
+ "cv_auc": 0.7138121151535631,
+ "top_decile_conv": 0.156,
+ "top30_capture": 0.5733695652173914
+}
